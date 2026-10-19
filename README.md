@@ -1,173 +1,132 @@
-# 👻 reenji
+<!--
+Profile README for https://github.com/reenji
+Keep this file at the root of the repository named: reenji
+Image asset: assets/renji-profile.png
+Palette inspired by the supplied artwork: deep blue, crimson, and warm ivory.
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Building+intelligent+systems.;Exploring+AI+%26+cybersecurity.;Automate.+Analyze.+Build.;Every+trace+tells+a+story." alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="assets/renji-profile.png" alt="Renji — personal anime-inspired artwork" width="360" />
+</div>
 
-<p align="center">
-  <code>AI ENGINEERING</code> · <code>CYBERSECURITY</code> · <code>AUTOMATION</code> · <code>SYSTEMS</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/reenji">
-    <img src="https://img.shields.io/badge/GitHub-reenji-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/reenji?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-111111?style=for-the-badge&logo=github&logoColor=39FF14" alt="Repositories"/>
-  </a>
-</p>
+<div align="center">
+  <h1>REENJI</h1>
+  <p><strong>Independent Developer · AI · Software · Security Research</strong></p>
+  <p>Building useful software, exploring new ideas, and shaping projects from the first experiment to the details that make them feel finished.</p>
+  <p>
+    <a href="https://github.com/reenji"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-126B88?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://x.com/Reenjixd"><img src="https://img.shields.io/badge/X-Follow-D23B50?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://reenji.bearblog.dev/"><img src="https://img.shields.io/badge/Journal-Read%20the%20blog-3B4148?style=flat-square&logo=readme&logoColor=white" alt="Blog" /></a>
+  </p>
+</div>
 
 ---
 
-## `whoami`
+## A little about me
 
-I'm **reenji**, a developer interested in building intelligent systems, exploring cybersecurity, and creating tools that make technology more capable.
+I'm Reenji — a developer drawn to projects that combine practical engineering with room to experiment.
 
-My work revolves around AI assistants, automation, security research, and terminal-based tooling. I enjoy experimenting with ideas, engineering practical solutions, and understanding how systems work beneath the surface.
+My work moves between AI assistants, automation, desktop software, and security research. I enjoy thinking about both sides of a project: the system underneath and the experience people have when they use it.
 
-Currently developing projects across AI, security, and developer tooling.
-
-> **"EVERY TRACE TELLS A STORY."**
-
-## `$ ls ~/projects`
-
-### 🧠 Artificial Intelligence
+I use GitHub as a workshop for ideas in progress: some are tools, some are experiments, and some grow into larger projects over time.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🤖 JARVIS</h3>
-
-An AI-focused project exploring the development of a personal intelligent assistant.
-
-Built around the idea of bringing AI capabilities and useful tools together in a unified experience.
-
-**Focus:** AI · Assistants · Automation
-
-<p>
-<a href="https://github.com/reenji/jarvis">
-<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore JARVIS"/>
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>👁️ ARGUS</h3>
-
-A desktop AI assistant powered by Gemini Live, featuring voice interaction, contextual tools, research capabilities, and file workflows.
-
-Also includes a presentation studio for creating and editing PowerPoint decks.
-
-**Focus:** Python · AI · Voice · Desktop Applications
-
-<p>
-<a href="https://github.com/reenji/Argus">
-<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore ARGUS"/>
-</a>
-</p>
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <p><strong>01 · Intelligent tools</strong></p>
+      <p>AI assistants, context-aware workflows, and software that helps turn ideas into finished work.</p>
+    </td>
+    <td width="33%" valign="top">
+      <p><strong>02 · Systems</strong></p>
+      <p>Automation, command-line utilities, and the small pieces that make a workflow reliable.</p>
+    </td>
+    <td width="33%" valign="top">
+      <p><strong>03 · Research</strong></p>
+      <p>Security concepts, distributed environments, and understanding how systems behave.</p>
+    </td>
+  </tr>
 </table>
 
-### 🛡️ Cybersecurity & Systems
+---
+
+## Selected work
+
+<p><sub>FOUR PROJECTS · DIFFERENT DIRECTIONS</sub></p>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔴 AEGISNET-RED</h3>
-
-An adversarial peer-to-peer (P2P) security research framework.
-
-A project focused on exploring security concepts in distributed and interconnected systems.
-
-**Focus:** Python · P2P · Security Research
-
-<p>
-<a href="https://github.com/reenji/aegisnet-red">
-<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore AegisNet Red"/>
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>👻 GHOST</h3>
-
-A modular, Linux-aware terminal hub for cybersecurity and penetration-testing tools.
-
-Features distribution detection, package-manager integration, dependency checks, execution logging, customizable modules, and extensibility.
-
-**Focus:** Bash · Linux · CLI · Security Tooling
-
-<p>
-<a href="https://github.com/reenji/Ghost">
-<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Ghost"/>
-</a>
-</p>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/reenji/Argus">ARGUS</a></strong> <sup>01 / AI ASSISTANT</sup></p>
+      <p>A desktop AI assistant built around Gemini Live, with voice and text interaction, optional browser and file tools, contextual research, and a studio for creating and editing presentations.</p>
+      <p><sub>PYTHON · PYQT6 · GEMINI</sub></p>
+      <p><a href="https://github.com/reenji/Argus">Explore ARGUS ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/reenji/jarvis">JARVIS</a></strong> <sup>02 / PERSONAL AI</sup></p>
+      <p>A companion space for my personal-assistant work and related experiments. Visit the repository for the current code, documentation, and development history.</p>
+      <p><sub>AI · AUTOMATION · PYTHON</sub></p>
+      <p><a href="https://github.com/reenji/jarvis">Explore JARVIS ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/reenji/aegisnet-red">AEGISNET-RED</a></strong> <sup>03 / SECURITY RESEARCH</sup></p>
+      <p>An adversarial peer-to-peer security research framework exploring challenges in distributed environments.</p>
+      <p><sub>PYTHON · P2P · RESEARCH</sub></p>
+      <p><a href="https://github.com/reenji/aegisnet-red">Explore AEGISNET-RED ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/reenji/Ghost">GHOST</a></strong> <sup>04 / DEVELOPER TOOLING</sup></p>
+      <p>A modular, Linux-aware command-line hub for security and penetration-testing tools, with distribution detection, dependency handling, logs, and plugin support.</p>
+      <p><sub>SHELL · LINUX · CLI</sub></p>
+      <p><a href="https://github.com/reenji/Ghost">Explore GHOST ↗</a></p>
+    </td>
+  </tr>
 </table>
 
-## `$ cat /interests`
+<p align="right"><a href="https://github.com/reenji?tab=repositories">More repositories and experiments →</a></p>
 
-```text
-[01] Artificial Intelligence & AI Agents
-[02] Cybersecurity & Security Research
-[03] Automation & Developer Tooling
-[04] Linux & Terminal Environments
-[05] Software Engineering & System Design
-[06] Privacy, Infrastructure & Networking
-```
+---
 
-## `$ tech --interests`
+## Tools & technologies
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/AI_Engineering-39FF14?style=flat-square&logoColor=black" alt="AI Engineering"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-222222?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-176B87?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell-D23B50?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Linux-3B4148?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-176B87?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-D23B50?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
-*Technologies and interests represented here reflect my projects and areas of exploration, not necessarily proficiency in every tool.*
+<p align="center"><sub>Current areas of exploration — not a claim of equal expertise in every tool.</sub></p>
 
-## `$ git stats`
+---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reenji&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenji&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="Most used languages"/>
-</p>
+## GitHub at a glance
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reenji&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=808080" alt="GitHub contribution streak"/>
-</p>
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=reenji&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=F6F2EC&title_color=176B87&icon_color=D23B50&text_color=34383D" alt="GitHub profile statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenji&layout=compact&langs_count=8&hide_border=true&bg_color=F6F2EC&title_color=176B87&text_color=34383D" alt="Most used languages" />
+</div>
 
-## `$ connect --with reenji`
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=reenji&hide_border=true&background=F6F2EC&ring=176B87&fire=D23B50&currStreakLabel=176B87&sideLabels=34383D&currStreakNum=34383D&sideNums=34383D&dates=777777" alt="GitHub contribution streak" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/reenji">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-  </a>
-  <a href="https://x.com/Reenjixd">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white" alt="X profile"/>
-  </a>
-  <a href="https://reenji.bearblog.dev/">
-    <img src="https://img.shields.io/badge/Blog-Read-39FF14?style=for-the-badge&logo=readme&logoColor=black" alt="Personal blog"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reenji&bg_color=F6F2EC&color=176B87&line=D23B50&point=176B87&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
+</div>
 
-<p align="center">
-  <i>Against the world. Beyond the surface.</i>
-</p>
+<p align="center"><sub>These visualizations are generated by external services and may occasionally be unavailable or delayed.</sub></p>
 
-<p align="center">
-  <code>NO SYSTEM IS SAFE.</code><br/>
-  <code>BUT EVERY SYSTEM LEAVES A FOOTPRINT.</code>
-</p>
+---
+
+## Elsewhere
+
+<div align="center">
+  <a href="https://github.com/reenji">GitHub</a> &nbsp; · &nbsp;
+  <a href="https://x.com/Reenjixd">X / Twitter</a> &nbsp; · &nbsp;
+  <a href="https://reenji.bearblog.dev/">Personal blog</a>
+  <br /><br />
+  <sub>Thanks for stopping by.</sub>
+</div>
