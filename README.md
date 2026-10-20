@@ -9,8 +9,6 @@
 
 </div>
 
-<img align="right" width="364" src="assets/reenji-card.png" alt="Reenji — Bleach poster: Soul Society, Gotei 13"/>
-
 <table>
 <tr>
 <td valign="top">
