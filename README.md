@@ -1,9 +1,3 @@
-<!--
-  reenji · GitHub profile README
-  Keep the assets/ folder next to this file:
-  assets/banner.svg · assets/reenji-card.png · assets/footer.svg
--->
-
 <div align="center">
 
 <img src="assets/banner.svg" alt="reenji — AI engineering, cybersecurity, automation, systems" width="100%"/>
@@ -21,14 +15,12 @@
 
 I'm **reenji** — a developer building intelligent systems, exploring cybersecurity, and creating tools that make technology more capable.
 
-My work lives where **AI assistants**, **automation**, **security research** and **terminal-based tooling** meet. I like experimenting with ideas, engineering practical solutions, and understanding how systems work beneath the surface. Currently developing projects across AI, security, and developer tooling.
-
 ```console
 reenji@soul-society:~$ whoami
-reenji // AI · security · automation
+reenji // code?
 
 reenji@soul-society:~$ ls ~/projects
-jarvis/  argus/  aegisnet-red/  ghost/
+jarvis/  argus/
 
 reenji@soul-society:~$ cat /etc/motto
 EVERY TRACE TELLS A STORY.
@@ -44,60 +36,33 @@ EVERY TRACE TELLS A STORY.
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 JARVIS</h3>
+<h3>🤖 Argus IA</h3>
 
 An AI-focused project exploring the development of a personal intelligent assistant — bringing AI capabilities and useful tools together in a unified experience.
 
 <code>AI</code> <code>Assistants</code> <code>Automation</code>
 
 <a href="https://github.com/reenji/jarvis">
-<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore JARVIS"/>
+<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Argus IA"/>
+</a>
+<a href="https://github.com/reenji/jarvis/stargazers">
+<img src="https://img.shields.io/github/stars/reenji/jarvis?style=flat-square&label=Stars&labelColor=181717&color=181717" alt="Argus IA stars"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>👁️ ARGUS</h3>
+<h3>👁️ ARGUS Application</h3>
 
-A desktop AI assistant powered by **Gemini Live** — voice interaction, contextual tools, research capabilities and file workflows. Also includes a **presentation studio** for creating and editing PowerPoint decks.
+A desktop app assistant powered by **Gemini Live** — voice interaction, contextual tools, research capabilities and file workflows. Also includes a **presentation studio** for creating and editing PowerPoint decks.
 
 <code>Python</code> <code>AI</code> <code>Voice</code> <code>Desktop Applications</code>
 
 <a href="https://github.com/reenji/Argus">
-<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore ARGUS"/>
+<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore ARGUS Application"/>
 </a>
-
-</td>
-</tr>
-</table>
-
-### 🛡️ Cybersecurity & Systems
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔴 AEGISNET-RED</h3>
-
-An adversarial peer-to-peer (**P2P**) security research framework — a project focused on exploring security concepts in distributed and interconnected systems.
-
-<code>Python</code> <code>P2P</code> <code>Security Research</code>
-
-<a href="https://github.com/reenji/aegisnet-red">
-<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore AegisNet Red"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>👻 GHOST</h3>
-
-A modular, Linux-aware terminal hub for cybersecurity and penetration-testing tools. Features distribution detection, package-manager integration, dependency checks, execution logging, customizable modules and extensibility.
-
-<code>Bash</code> <code>Linux</code> <code>CLI</code> <code>Security Tooling</code>
-
-<a href="https://github.com/reenji/Ghost">
-<img src="https://img.shields.io/badge/Explore_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Ghost"/>
+<a href="https://github.com/reenji/Argus/stargazers">
+<img src="https://img.shields.io/github/stars/reenji/Argus?style=flat-square&label=Stars&labelColor=181717&color=181717" alt="ARGUS Application stars"/>
 </a>
 
 </td>
@@ -108,11 +73,8 @@ A modular, Linux-aware terminal hub for cybersecurity and penetration-testing to
 
 ```text
 [01] Artificial Intelligence & AI Agents
-[02] Cybersecurity & Security Research
-[03] Automation & Developer Tooling
-[04] Linux & Terminal Environments
-[05] Software Engineering & System Design
-[06] Privacy, Infrastructure & Networking
+[02] Automation & Developer Tooling
+[03] Software Engineering & System Design
 ```
 
 ## `$ tech --interests`
@@ -164,7 +126,5 @@ A modular, Linux-aware terminal hub for cybersecurity and penetration-testing to
 <br/>
 
 <img src="assets/footer.svg" alt="No system is safe. But every system leaves a footprint." width="100%"/>
-
-<sub>Security research and tooling shown here are for education and authorized testing only.</sub>
 
 </div>
