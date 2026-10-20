@@ -9,6 +9,8 @@
 
 </div>
 
+<img align="right" width="364" src="assets/reenji-card.png" alt="Reenji — Bleach poster: Soul Society, Gotei 13"/>
+
 <table>
 <tr>
 <td valign="top">
@@ -32,8 +34,6 @@ EVERY TRACE TELLS A STORY.
 
 </td>
 <td valign="top" width="364">
-
-<img src="assets/reenji-card.png" alt="Reenji — Bleach poster: Soul Society, Gotei 13"/>
 
 </td>
 </tr>
