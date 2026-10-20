@@ -11,12 +11,15 @@
 
 <img align="right" width="364" src="assets/reenji-card.png" alt="Reenji — Bleach poster: Soul Society, Gotei 13"/>
 
+<table>
+<tr>
+<td valign="top">
+
 ### 👻 `$ cat README.md`
 
 I'm **reenji** — a developer building intelligent systems, exploring cybersecurity, and creating tools that make technology more capable.
 
 [![X @Reenjixd](https://img.shields.io/badge/X-Follow-161B22?style=for-the-badge&logo=x&logoColor=39FF14&labelColor=0D1117)](https://x.com/Reenjixd)
-
 
 ```console
 reenji@soul-society:~$ whoami
@@ -29,6 +32,14 @@ reenji@soul-society:~$ cat /etc/motto
 EVERY TRACE TELLS A STORY.
 ```
 
+</td>
+<td valign="top" width="364">
+
+<img src="assets/reenji-card.png" alt="Reenji — Bleach poster: Soul Society, Gotei 13"/>
+
+</td>
+</tr>
+</table>
 
 ## `$ connect --with reenji`
 
