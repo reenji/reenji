@@ -96,12 +96,12 @@ A desktop app assistant powered by **Gemini Live** — voice interaction, contex
 ## `$ git stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reenji&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&include_all_commits=true&border_radius=14" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenji&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_radius=14" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reenji&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&include_all_commits=true&border_radius=14&v=2" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenji&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_radius=14&v=2" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=reenji&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=808080&border_radius=14" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=reenji&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=808080&border_radius=14&v=2" alt="GitHub contribution streak"/>
 </p>
 
 ## `$ connect --with reenji`
